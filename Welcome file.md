@@ -248,7 +248,7 @@ This document will describe the functionals specifications for the recruitment w
 
   
 
-![Figure 1](https://github.com/everycheck/docs/blob/master/img/HomePage_F1.png)
+![Figure 1](https://github.com/Leoppa/docs/blob/master/img/HomePage_F1.png)
 
   
 
