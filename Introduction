@@ -20,6 +20,218 @@ Date: 08/12/2020
 
   
 
+# Table of contents
+
+  
+
+_**[1. Introduction ](#_Toc6507129)**_
+
+  
+
+_**[2. Context for the recruitment products ](#_Toc65071294)**_
+
+  
+
+**[2.1. Vocabularies ](#_Toc65071295)**
+
+  
+
+_**[3. The functional guide of the candidate platform ](#_Toc65071296)**_
+
+  
+
+**[3.1. Expected features ](#_Toc65071297)**
+
+  
+
+**[3.2. The client website screen routes ](#_Toc65071298)**
+
+  
+
+**[3.3. The login page ](#_Toc65071299)**
+
+  
+
+[3.3.1. Fill the fields and click on Login (Link 1) ](#_Toc65071300)
+
+  
+
+[3.3.2. &quot;Password forgotten&quot; button (Link 6) ](#_Toc65071301)
+
+  
+
+**[3.4. Password recovering ](#_Toc65071302)**
+
+  
+
+[3.4.1. Request for a password-reset (Link 7) ](#_Toc65071303)
+
+  
+
+**[3.5. Create a new password ](#_Toc65071304)**
+
+  
+
+[3.5.1. The &quot;Create&quot; button (Link 8) ](#_Toc65071305)
+
+  
+
+**[3.6. The client Dashboard (Link 1, 2 &amp; 4) ](#_Toc65071306)**
+
+  
+
+[3.6.1. Logout from the dashboard 15](#_Toc65071307)
+
+  
+
+[3.6.2. The resume check status ](#_Toc65071308)
+
+  
+
+[3.6.3. Find an applicant study ](#_Toc65071309)
+
+  
+
+[3.6.4. View on the background check ](#_Toc65071310)
+
+  
+
+[3.6.5. Navigating from the status to the audit trail ](#_Toc65071312)
+
+  
+
+[3.6.6. The pagination ](#_Toc65071313)
+
+  
+
+**[3.7. Background check (Link 2 &amp; 3) ](#_Toc65071314)**
+
+  
+
+[3.7.1. Download documents (Link 5) ](#_Toc65071315)
+
+  
+
+[3.7.2. Audit trail (Link 3 &amp; 4) ](#_Toc65071316)
+
+  
+
+[3.7.3. Dashboard (Link 1,2 &amp; 4) ](#_Toc65071317)
+
+  
+
+[3.7.4. Background check (Link 2 &amp; 3) ](#_Toc65071318)
+
+  
+
+_**[4. The functional guide of the candidate platform ](#_Toc65071319)**_
+
+  
+
+**[4.1. Expected features ](#_Toc65071320)**
+
+  
+
+**[4.2. The screen mapping diagram ](#_Toc65071321)**
+
+  
+
+**[4.3. Page without connection restriction ](#_Toc65071322)**
+
+  
+
+[4.3.1. The login pages](#_Toc65071323)
+
+  
+
+[4.3.2. Login request (Link 14) &amp; Invalid link request ](#_Toc65071324)
+
+  
+
+[4.3.3. Annex pages ](#_Toc65071325)
+
+  
+
+**[4.4. Pages with a login required ](#_Toc65071326)**
+
+  
+
+[4.4.1. The authorization page structure (link 1) ](#_Toc65071327)
+
+  
+
+[4.4.2. The breadcrumb ](#_Toc65071328)
+
+  
+
+[4.4.3. The authorization acceptance or refusal process ](#_Toc65071329)
+
+  
+
+[4.4.4. The refusal notification ](#_Toc65071330)
+
+  
+
+[4.4.5. The authorization previews ](#_Toc65071331)
+
+  
+
+[4.4.6. Verification authorization certificate (Link 11) ](#_Toc65071332)
+
+  
+
+[**4.4.7. The form presentation** ](#_Toc65071333)
+
+  
+
+[4.4.7.1. The form guides ](#_Toc65071334)
+
+  
+
+[4.4.7.2. Similarity between each form page ](#_Toc65071335)
+
+  
+
+[4.4.7.2.1. The auto-save forms ](#_Toc65071336)
+
+  
+
+[4.4.7.2.2. How to skip a form ](#_Toc65071337)
+
+  
+
+[4.4.7.2.3. An auto completion with google map ](#_Toc65071338)
+
+  
+
+[4.4.7.2.4. Fill the address manually ](#_Toc65071339)
+
+  
+
+[**4.4.7.3. The specific features of each form** ](#_Toc65071340)
+
+  
+
+[4.4.7.3.1. The ID form (Link4) 46](#_Toc65071341)
+
+  
+
+[4.4.7.3.2. The school career form (Link 5) 48](#_Toc65071342)
+
+  
+
+[4.4.7.3.3. The job form (Link 6) 50](#_Toc65071343)
+
+  
+
+[4.4.7.3.4. The validation steps (Link 7 &amp; 9) 53](#_Toc65071344)
+
+  
+
+[4.4.7.3.5. The final validation (Link 8) 55](#_Toc65071345)
+
+  
+
 ###
 
   
