@@ -33,7 +33,8 @@ Besides, the URL between the desktop and mobile version are the same.
 ## 1.2. The screen mapping diagram
 
 ![f17](https://github.com/everycheck/docs/blob/master/img/Screenmap_f17.png)
- _Figure 1: Screen mapping_
+
+_Figure 1: Screen mapping_
 
 This is the representation of the website mapping; it shows us every result and interfaces the applicant can get after an action on the website.
 
