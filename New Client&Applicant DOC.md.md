@@ -96,7 +96,7 @@ EveryCheck was created in 2015 and inspired by Anglo-Saxon countries. It aims to
 
 This document will describe the functionals specifications for the recruitment web application.
 
-<![if !vml]>![](https://github.com/Leoppa/docs/blob/master/img/1A.png)<![endif]>
+![](https://github.com/Leoppa/docs/blob/master/img/1A.png)
 
 Figure 1: Home page
 
