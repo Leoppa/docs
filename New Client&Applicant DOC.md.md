@@ -14,8 +14,6 @@ Written by: Léo SOK
 
 Date: 02/08/2021
 
-  
-
 Table of contents
 
 [1. Introduction.. 3](#_Toc81822273)
@@ -92,21 +90,17 @@ Table of contents
 
 [4. The footer pages (Link 11)  30](#_Toc81822309)
 
-  
-
 # 1. Introduction
 
 EveryCheck was created in 2015 and inspired by Anglo-Saxon countries. It aims to bring background checks for recruitment and real estate in France.
 
 This document will describe the functionals specifications for the recruitment web application.
 
-<![if !vml]>![](file:////Users/leo/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<![endif]>
+<![if !vml]>![](https://github.com/Leoppa/docs/blob/master/img/1A.png)<![endif]>
 
 Figure 1: Home page
 
 [https://www.everycheck.com/](https://www.everycheck.com/)
-
-  
 
 # 2. Context for the recruitment products
 
