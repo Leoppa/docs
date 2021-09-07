@@ -1,14 +1,4 @@
-﻿<![endif]-->
-
-<![if !vml]>![](file:////Users/leo/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg)<![endif]>
-
-<![if !vml]>![](file:////Users/leo/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)<![endif]>
-
-**Functional**
-
-**Specifications**
-
-**Client platform**
+**Functional Specifications Client platform**
 
 Written by: Léo SOK
 
@@ -130,7 +120,6 @@ EveryCheck can check:
 
 EveryCheck is not meant to judge people. Its mission is only to gather information. EveryCheck will never be able to help a recruiter to know if an applicant can fit in a job description or not.
 
-  
 
 Each applicant check is called a study and follow this process:
 
