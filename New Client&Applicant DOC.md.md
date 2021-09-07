@@ -134,7 +134,7 @@ EveryCheck is not meant to judge people. Its mission is only to gather informati
 
 Each applicant check is called a study and follow this process:
 
-<![if !vml]>![](file:////Users/leo/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)<![endif]>
+![](file:////Users/leo/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
 
 Figure 2: Study process
 
